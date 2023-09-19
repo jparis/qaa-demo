@@ -1,6 +1,6 @@
 
 SHEETS
-{"qInfo":{"qId":"2ea82ee4-75a4-4124-9b2e-1add428449f6","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"2ea82ee4-75a4-4124-9b2e-1add428449f6","approved":false,"published":false,"owner":"auth0|a08D000000khG5NIAU","ownerId":"1t6Y_fpYmE50v3KHXCuzhcUN9v9fWe44","createdDate":"2023-09-19T14:13:20.926Z","modifiedDate":"2023-09-19T14:13:51.727Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"2ea82ee4-75a4-4124-9b2e-1add428449f6","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"2ea82ee4-75a4-4124-9b2e-1add428449f6","approved":false,"published":true,"owner":"auth0|a08D000000khG5NIAU","ownerId":"1t6Y_fpYmE50v3KHXCuzhcUN9v9fWe44","createdDate":"2023-09-19T14:13:20.926Z","modifiedDate":"2023-09-19T15:25:38.621Z","publishTime":"2023-09-19T15:25:38.621Z","privileges":["read","publish","change_owner"]},"qData":[]}
 
 OBJECTS ON SHEETS
 {"bounds":{"x":0,"y":0,"width":100,"height":100},"col":0,"colspan":24,"name":"nkFGNGH","row":0,"rowspan":12,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"barchart"}
@@ -22,11 +22,11 @@ FIELDS
 {"qName":"Num","qCardinal":26,"qTags":["$key","$numeric","$integer"],"qSrcTables":["Characters","ASCII","Transactions"]}
 {"qName":"AsciiAlpha","qCardinal":191,"qTags":[],"qSrcTables":["ASCII"]}
 {"qName":"AsciiNum","qCardinal":191,"qTags":["$numeric","$integer"],"qSrcTables":["ASCII"]}
-{"qName":"TransLineID","qCardinal":14,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
+{"qName":"TransLineID","qCardinal":11,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
 {"qName":"TransID","qCardinal":1000,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
 {"qName":"Dim1","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
 {"qName":"Dim2","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
 {"qName":"Dim3","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
-{"qName":"Expression1","qCardinal":443,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
+{"qName":"Expression1","qCardinal":447,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
 {"qName":"Expression2","qCardinal":10,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
-{"qName":"Expression3","qCardinal":1981,"qTags":["$numeric"],"qSrcTables":["Transactions"]}
+{"qName":"Expression3","qCardinal":1881,"qTags":["$numeric"],"qSrcTables":["Transactions"]}
