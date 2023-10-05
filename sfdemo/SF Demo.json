@@ -27,6 +27,6 @@ FIELDS
 {"qName":"Dim1","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
 {"qName":"Dim2","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
 {"qName":"Dim3","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
-{"qName":"Expression1","qCardinal":447,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
+{"qName":"Expression1","qCardinal":465,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
 {"qName":"Expression2","qCardinal":10,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
-{"qName":"Expression3","qCardinal":1881,"qTags":["$numeric"],"qSrcTables":["Transactions"]}
+{"qName":"Expression3","qCardinal":1990,"qTags":["$numeric"],"qSrcTables":["Transactions"]}
